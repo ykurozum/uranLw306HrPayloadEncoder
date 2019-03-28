@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/cisco/japan/as/uran/payloaddecoder/constants/AlarmType.java=UTF-8
+encoding//src/main/java/com/cisco/japan/as/uran/payloaddecoder/constants/BeaconId.java=UTF-8
+encoding//src/main/java/com/cisco/japan/as/uran/payloaddecoder/constants/BeaconType.java=UTF-8
+encoding//src/main/java/com/cisco/japan/as/uran/payloaddecoder/constants/CommandId.java=UTF-8
+encoding//src/main/java/com/cisco/japan/as/uran/payloaddecoder/constants/GpsFixStatus.java=UTF-8
+encoding//src/main/java/com/cisco/japan/as/uran/payloaddecoder/constants/IEnumDecodable.java=UTF-8
+encoding//src/main/java/com/cisco/japan/as/uran/payloaddecoder/constants/NodeElements.java=UTF-8
+encoding//src/main/java/com/cisco/japan/as/uran/payloaddecoder/constants/ProtocolSummary.java=UTF-8
+encoding//src/main/java/com/cisco/japan/as/uran/payloaddecoder/constants/ProtocolVersion.java=UTF-8
+encoding//src/main/java/com/cisco/japan/as/uran/payloaddecoder/constants/ReportType.java=UTF-8
+encoding//src/main/java/com/cisco/japan/as/uran/payloaddecoder/constants/UnknownStatus.java=UTF-8
+encoding//src/main/java/com/cisco/japan/as/uran/payloaddecoder/util/EnumDecodeUtil.java=UTF-8
+encoding//src/main/java/com/cisco/japan/as/uran/payloaddecoder/util/EnumNameResolveUtil.java=UTF-8
+encoding/<project>=UTF-8
