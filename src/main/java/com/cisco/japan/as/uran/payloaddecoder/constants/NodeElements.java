@@ -42,9 +42,20 @@ public enum NodeElements implements IEnumDecodable<String> {
 	RSSI("RSSI"),
 	/** TxPower */
 	TXPOWER("TxPower"),
+	/** Reserved */
+	RESERVED("Reserved"),
+	/** Calorie */
+	CALORIE("Calorie"),
+	/** Heart Rate */
+	HEART_RATE("Heart Rate"),
+	/** Skin Temperature */	
+	SKIN_TEMPERATRE("Skin Temperature"),
+	/** Step Count */	
+	STEP_COUNT("Step Count"),
+	/** Distance */		
+	DISTANCE("Distance"),
 	/** Error */
 	ERROR("Error");
-	
 	
 
     /**　コード値 */ 

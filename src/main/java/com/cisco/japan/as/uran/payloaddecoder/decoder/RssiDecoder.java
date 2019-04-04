@@ -13,7 +13,9 @@ public class RssiDecoder {
 	public static String decodeRssi(String hexStr) {
 		
 		byte[] bytes = DatatypeConverter.parseHexBinary(hexStr);
+		// bit反転
 		int val = ~bytes[0];
+		// 1加えて、-1をかける
 		val = (val + 1)*-1;
 		
 		return String.valueOf(val);

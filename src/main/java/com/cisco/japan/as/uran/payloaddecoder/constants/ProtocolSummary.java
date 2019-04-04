@@ -4,19 +4,11 @@ import com.cisco.japan.as.uran.payloaddecoder.util.EnumDecodeUtil;
 
 public enum ProtocolSummary implements IEnumDecodable<String> {
 	
-	/** TrackingReport */
+	/** Period Report */
 	PERIOD_REPORT("0226"),
 	/** Alarm Report */
-	TRACKING_REPORT_S("0025"),
-	/** HelpReport */
-	HELP_REPORT("0c0b00"),
-	/** HelpReport(Short) */
-	HELP_REPORT_S("8001"),
-	/** BeaconReport:TrackingReport */
-	BEACON_REPORT_T("0c1302"),
-	/** BeaconReport:HelpReport */
-	BEACON_REPORT_H("0c0700");
-	
+	ALARM_REPORT("0025");
+
     /**　コード値 */ 
 	private String code;
 
